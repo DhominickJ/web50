@@ -1,0 +1,7 @@
+.button_layout{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 10%;
+    background-color: red;
+}
