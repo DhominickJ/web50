@@ -2,5 +2,9 @@
   {
     "name": "day1",
     "lesson": "transition"
+  },
+  {
+    "name": "day2",
+    "lesson": "progress"
   }
 ]
