@@ -10,5 +10,9 @@
   {
     "name": "day3",
     "lesson": "rotation"
+  },
+  {
+    "name": "day4",
+    "lesson": "search"
   }
 ]
