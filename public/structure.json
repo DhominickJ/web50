@@ -14,5 +14,9 @@
   {
     "name": "day4",
     "lesson": "search"
+  },
+  {
+    "name": "day5",
+    "lesson": "loading"
   }
 ]
